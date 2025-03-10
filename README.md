@@ -90,8 +90,15 @@ hlt
 
  
 ## Subtraction   of 8 bit numbers  ALP 
- 
-## Output  
+```assembly
+MOV AL,84H
+MOV BL,63H
+SUB AL,BL
+HLT
+```
+## Output 
+![image](https://github.com/user-attachments/assets/0f0dbeec-e3f0-4c69-922b-716fe050b162)
+
 ## Multiplication alp 
  ## Output  
 
