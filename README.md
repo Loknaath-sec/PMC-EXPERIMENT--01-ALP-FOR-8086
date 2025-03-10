@@ -99,7 +99,7 @@ HLT
 ## Output 
 ![image](https://github.com/user-attachments/assets/0f0dbeec-e3f0-4c69-922b-716fe050b162)
 
-## Multiplication alp 
+## Multiplication of 8 bit numbers ALP
 ```assembly
 MOV AL,75H
 MOV BL,32H
@@ -109,12 +109,16 @@ HLT
  ## Output  
 ![image](https://github.com/user-attachments/assets/547a96ea-4b71-4240-98bc-e81790c25f8d)
 
-
-
-## Division alp 
+## Division of 8 bit numbers ALP
+```assembly
+MOV AL,68H
+MOV BL,18H
+DIV BL
+HLT
+```
 
 ## Output  
-
+![image](https://github.com/user-attachments/assets/d2250964-2336-462a-ba8c-cfe8d91c6b27)
 
 ## Result :
  
