@@ -1,11 +1,13 @@
-![image](https://github.com/user-attachments/assets/340c5551-b5d8-43ae-8689-fbd289ad13b0)# EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
 
 
 
 
+# EXPERIMENT 01 ALP FOR 8086
+Name : LOKNAATH P
+
+Reg no : 212223240080
+
+Date of experiment : 10-03-2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
