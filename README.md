@@ -130,7 +130,8 @@ AND AL,BL
 HLT
 ```
 ## Output
-![ANDEX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/137f8c67-17d9-4cc2-8437-349d50e0a404)
+![image](https://github.com/user-attachments/assets/1f70ed7f-a214-4cb8-999c-adcd31784382)
+
 
 ## OR of 8 bit numbers ALP
 ```assembly
@@ -140,7 +141,8 @@ OR AL,BL
 HLT
 ```
 ## Output
-![OR EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/d9fce991-bce0-4c58-a77c-2de3216f302d)
+![image](https://github.com/user-attachments/assets/f2363e83-9f02-4a06-8754-e2a5f5b9cd97)
+
 
 ## NOT of 8 bit number ALP
 ```assembly
@@ -149,7 +151,8 @@ NOT AL
 HLT
 ```
 ## Output
-![NOT EX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/a7efe90e-2100-4df5-8298-3516af3b7f65)
+![image](https://github.com/user-attachments/assets/a29500ad-06ec-44d4-bde9-f5c762d42f20)
+
 
 ## XOR of 8 bit number ALP
 ```assembly
@@ -160,7 +163,8 @@ HLT
 ```
 
 ## Output
-![XOREX](https://github.com/JananiSoundararajan/EXPERIMENT--01-ALP-FOR-8086/assets/119477549/838fcf0e-3db2-4d6c-a9b6-0607b839726d)
+![image](https://github.com/user-attachments/assets/ec2e9fe5-3ebe-42c7-a9be-54a8a69e4f91)
+
 
 ## Result :
 
